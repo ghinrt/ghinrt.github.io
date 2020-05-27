@@ -6,7 +6,7 @@ description: "A blog and a portfolio"
 author: "author"
 title: Hello ghinrt's world
 permalink: pretty
-baseurl:""
+baseurl: ""
 
 # social
 github:
